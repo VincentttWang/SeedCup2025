@@ -1,0 +1,53 @@
+{
+  "final_status": "RUNNING",
+  "duration": 1.041,
+  "stats": {
+    "state": "running",
+    "elapsed_time": 1.041,
+    "time_limit": 60.0,
+    "prefab_total": {},
+    "prefab_delivered": {},
+    "failed_vehicles_count": 0,
+    "is_victory": false,
+    "is_failure": false,
+    "is_running": true,
+    "final_cost": 0.0,
+    "original_cost": 0.0,
+    "cost_doubled": false,
+    "bridge_breakages": 0
+  },
+  "events": [
+    {
+      "type": "SESSION_START",
+      "data": {
+        "prefab_vehicles_total": {},
+        "time": 0.0
+      }
+    },
+    {
+      "type": "SESSION_END",
+      "data": {
+        "final_status": "RUNNING",
+        "session_duration": 1.041,
+        "stats": {
+          "state": "running",
+          "elapsed_time": 1.041,
+          "time_limit": 60.0,
+          "prefab_total": {},
+          "prefab_delivered": {},
+          "failed_vehicles_count": 0,
+          "is_victory": false,
+          "is_failure": false,
+          "is_running": true,
+          "final_cost": 0.0,
+          "original_cost": 0.0,
+          "cost_doubled": false,
+          "bridge_breakages": 0
+        },
+        "total_events": 1,
+        "time": 1.041
+      }
+    }
+  ],
+  "vehicle_positions": []
+}

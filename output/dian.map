@@ -1,0 +1,884 @@
+{
+  "level_name": "dian",
+  "map_size": {
+    "width": 96,
+    "height": 54
+  },
+  "grid_bounds": {
+    "min_x": -47,
+    "max_x": 47,
+    "min_y": -25,
+    "max_y": 23
+  },
+  "budget": 30000.0,
+  "materials": {
+    "wood": {
+      "cost_per_meter": 15.0,
+      "max_load": 400.0,
+      "collidable": false,
+      "max_build_length": 8.0
+    },
+    "steel": {
+      "cost_per_meter": 50.0,
+      "max_load": 900.0,
+      "collidable": false,
+      "max_build_length": 8.0
+    },
+    "road": {
+      "cost_per_meter": 60.0,
+      "max_load": 400.0,
+      "collidable": true,
+      "max_build_length": 8.0
+    }
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "x": -33,
+      "y": 13,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 1,
+      "x": 37,
+      "y": 13,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 2,
+      "x": -28,
+      "y": 23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 3,
+      "x": 32,
+      "y": 23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 4,
+      "x": -13,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 5,
+      "x": -10,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 6,
+      "x": -8,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 7,
+      "x": -13,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 8,
+      "x": -10,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 9,
+      "x": -4,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 10,
+      "x": -2,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 11,
+      "x": -4,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 12,
+      "x": -2,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 13,
+      "x": -4,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 14,
+      "x": -2,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 15,
+      "x": -4,
+      "y": -24,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 16,
+      "x": -2,
+      "y": -24,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 17,
+      "x": 2,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 18,
+      "x": 2,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 19,
+      "x": 4,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 20,
+      "x": 6,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 21,
+      "x": 6,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 22,
+      "x": 4,
+      "y": -24,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 23,
+      "x": 3,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 24,
+      "x": 5,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 25,
+      "x": 3,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 26,
+      "x": 5,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 27,
+      "x": 3,
+      "y": -21,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 28,
+      "x": 5,
+      "y": -21,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 29,
+      "x": -12,
+      "y": -24,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 30,
+      "x": 10,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 31,
+      "x": 10,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 32,
+      "x": 11,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 33,
+      "x": 11,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 34,
+      "x": 13,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 35,
+      "x": 14,
+      "y": -18,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 36,
+      "x": 13,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 37,
+      "x": 14,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 38,
+      "x": -8,
+      "y": -21,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 39,
+      "x": -12,
+      "y": -19,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 40,
+      "x": -9,
+      "y": -22,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 41,
+      "x": -9,
+      "y": -21,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 42,
+      "x": -11,
+      "y": -24,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 43,
+      "x": -11,
+      "y": -19,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 44,
+      "x": 11,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 45,
+      "x": 13,
+      "y": -20,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 46,
+      "x": -47,
+      "y": 3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 47,
+      "x": -33,
+      "y": 3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 48,
+      "x": 37,
+      "y": 3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 49,
+      "x": 47,
+      "y": 3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 50,
+      "x": -3,
+      "y": 23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 51,
+      "x": -2,
+      "y": 19,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 52,
+      "x": 6,
+      "y": 19,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 53,
+      "x": 7,
+      "y": 23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 54,
+      "x": -47,
+      "y": -5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 55,
+      "x": -33,
+      "y": -5,
+      "pinned": true,
+      "node_type": "normal"
+    }
+  ],
+  "bridges": {
+    "road": [
+      {
+        "p0": 0,
+        "p1": 2
+      },
+      {
+        "p0": 1,
+        "p1": 3
+      },
+      {
+        "p0": 4,
+        "p1": 5
+      },
+      {
+        "p0": 5,
+        "p1": 6
+      },
+      {
+        "p0": 8,
+        "p1": 7
+      },
+      {
+        "p0": 7,
+        "p1": 4
+      },
+      {
+        "p0": 29,
+        "p1": 42
+      },
+      {
+        "p0": 42,
+        "p1": 40
+      },
+      {
+        "p0": 40,
+        "p1": 41
+      },
+      {
+        "p0": 41,
+        "p1": 43
+      },
+      {
+        "p0": 29,
+        "p1": 39
+      },
+      {
+        "p0": 39,
+        "p1": 43
+      },
+      {
+        "p0": 6,
+        "p1": 38
+      },
+      {
+        "p0": 38,
+        "p1": 8
+      },
+      {
+        "p0": 9,
+        "p1": 15
+      },
+      {
+        "p0": 15,
+        "p1": 16
+      },
+      {
+        "p0": 16,
+        "p1": 10
+      },
+      {
+        "p0": 10,
+        "p1": 9
+      },
+      {
+        "p0": 13,
+        "p1": 11
+      },
+      {
+        "p0": 11,
+        "p1": 12
+      },
+      {
+        "p0": 12,
+        "p1": 14
+      },
+      {
+        "p0": 14,
+        "p1": 13
+      },
+      {
+        "p0": 19,
+        "p1": 18
+      },
+      {
+        "p0": 18,
+        "p1": 17
+      },
+      {
+        "p0": 17,
+        "p1": 25
+      },
+      {
+        "p0": 25,
+        "p1": 27
+      },
+      {
+        "p0": 27,
+        "p1": 28
+      },
+      {
+        "p0": 28,
+        "p1": 26
+      },
+      {
+        "p0": 26,
+        "p1": 21
+      },
+      {
+        "p0": 21,
+        "p1": 20
+      },
+      {
+        "p0": 20,
+        "p1": 19
+      },
+      {
+        "p0": 22,
+        "p1": 23
+      },
+      {
+        "p0": 23,
+        "p1": 24
+      },
+      {
+        "p0": 24,
+        "p1": 22
+      },
+      {
+        "p0": 31,
+        "p1": 30
+      },
+      {
+        "p0": 31,
+        "p1": 32
+      },
+      {
+        "p0": 32,
+        "p1": 45
+      },
+      {
+        "p0": 44,
+        "p1": 34
+      },
+      {
+        "p0": 44,
+        "p1": 33
+      },
+      {
+        "p0": 30,
+        "p1": 33
+      },
+      {
+        "p0": 36,
+        "p1": 37
+      },
+      {
+        "p0": 37,
+        "p1": 35
+      },
+      {
+        "p0": 35,
+        "p1": 34
+      },
+      {
+        "p0": 45,
+        "p1": 36
+      },
+      {
+        "p0": 46,
+        "p1": 47
+      },
+      {
+        "p0": 47,
+        "p1": 0
+      },
+      {
+        "p0": 49,
+        "p1": 48
+      },
+      {
+        "p0": 48,
+        "p1": 1
+      },
+      {
+        "p0": 51,
+        "p1": 50
+      },
+      {
+        "p0": 51,
+        "p1": 52
+      },
+      {
+        "p0": 52,
+        "p1": 53
+      },
+      {
+        "p0": 54,
+        "p1": 55
+      }
+    ]
+  },
+  "blocks": {
+    "StationBlock": [
+      {
+        "x": 46,
+        "y": 3
+      },
+      {
+        "x": 47,
+        "y": 3
+      },
+      {
+        "x": 45,
+        "y": 3
+      },
+      {
+        "x": 44,
+        "y": 3
+      },
+      {
+        "x": 42,
+        "y": 3
+      },
+      {
+        "x": 42,
+        "y": 2
+      },
+      {
+        "x": 43,
+        "y": 3
+      },
+      {
+        "x": 43,
+        "y": 2
+      },
+      {
+        "x": 42,
+        "y": 1
+      },
+      {
+        "x": 42,
+        "y": 0
+      },
+      {
+        "x": 44,
+        "y": 1
+      },
+      {
+        "x": 43,
+        "y": 0
+      },
+      {
+        "x": 44,
+        "y": 0
+      },
+      {
+        "x": 43,
+        "y": 1
+      },
+      {
+        "x": 44,
+        "y": 2
+      },
+      {
+        "x": 45,
+        "y": 0
+      },
+      {
+        "x": 45,
+        "y": 2
+      },
+      {
+        "x": 45,
+        "y": 1
+      },
+      {
+        "x": 46,
+        "y": 0
+      },
+      {
+        "x": 46,
+        "y": 2
+      },
+      {
+        "x": 46,
+        "y": 1
+      },
+      {
+        "x": 47,
+        "y": 1
+      },
+      {
+        "x": 47,
+        "y": 0
+      },
+      {
+        "x": 47,
+        "y": 2
+      },
+      {
+        "x": 41,
+        "y": 3
+      },
+      {
+        "x": 40,
+        "y": 3
+      },
+      {
+        "x": 39,
+        "y": 3
+      },
+      {
+        "x": 38,
+        "y": 3
+      },
+      {
+        "x": 38,
+        "y": 2
+      },
+      {
+        "x": 38,
+        "y": 1
+      },
+      {
+        "x": 38,
+        "y": 0
+      },
+      {
+        "x": 40,
+        "y": 0
+      },
+      {
+        "x": 41,
+        "y": 0
+      },
+      {
+        "x": 39,
+        "y": 0
+      },
+      {
+        "x": 39,
+        "y": 1
+      },
+      {
+        "x": 39,
+        "y": 2
+      },
+      {
+        "x": 40,
+        "y": 1
+      },
+      {
+        "x": 40,
+        "y": 2
+      },
+      {
+        "x": 41,
+        "y": 1
+      },
+      {
+        "x": 41,
+        "y": 2
+      },
+      {
+        "x": 38,
+        "y": -1
+      },
+      {
+        "x": 39,
+        "y": -1
+      },
+      {
+        "x": 40,
+        "y": -1
+      },
+      {
+        "x": 42,
+        "y": -1
+      },
+      {
+        "x": 44,
+        "y": -1
+      },
+      {
+        "x": 46,
+        "y": -1
+      },
+      {
+        "x": 47,
+        "y": -1
+      },
+      {
+        "x": 43,
+        "y": -1
+      },
+      {
+        "x": 41,
+        "y": -1
+      },
+      {
+        "x": 45,
+        "y": -1
+      }
+    ]
+  },
+  "vehicles": {
+    "freight_truck": [
+      {
+        "x": -44,
+        "y": 1
+      }
+    ],
+    "coach_bus": [
+      {
+        "x": -37,
+        "y": 1
+      }
+    ],
+    "wheeled_car": [
+      {
+        "x": -45,
+        "y": -6
+      },
+      {
+        "x": -41,
+        "y": -6
+      },
+      {
+        "x": -37,
+        "y": -6
+      }
+    ]
+  },
+  "rules": [
+    "Node IDs are used to identify bridge connection points",
+    "Pinned nodes cannot move and serve as bridge supports",
+    "Total construction cost cannot exceed the budget limit",
+    "Material choice affects bridge strength and cost",
+    "Road material can support vehicle traffic",
+    "Maximum connections per node: 8",
+    "Cannot place duplicate sticks between same nodes with same material",
+    "Each material has a maximum build length limit (in grid units)",
+    "Grid coordinates are relative to world origin, range: x(-47 to 47), y(-25 to 23)"
+  ],
+  "generated_at": "2025-11-10T22:12:26.034014"
+}
