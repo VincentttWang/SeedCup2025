@@ -880,5 +880,5 @@
     "Each material has a maximum build length limit (in grid units)",
     "Grid coordinates are relative to world origin, range: x(-47 to 47), y(-25 to 23)"
   ],
-  "generated_at": "2025-11-10T22:12:26.034014"
+  "generated_at": "2025-11-13T12:36:46.895062"
 }

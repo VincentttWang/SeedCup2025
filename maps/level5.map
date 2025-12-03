@@ -1,0 +1,612 @@
+{
+  "level_name": "level5",
+  "map_size": {
+    "width": 96,
+    "height": 54
+  },
+  "grid_bounds": {
+    "min_x": -45,
+    "max_x": 38,
+    "min_y": -25,
+    "max_y": 15
+  },
+  "budget": 30000.0,
+  "materials": {
+    "wood": {
+      "cost_per_meter": 15.0,
+      "max_load": 400.0,
+      "collidable": false,
+      "max_build_length": 8.0
+    },
+    "steel": {
+      "cost_per_meter": 50.0,
+      "max_load": 900.0,
+      "collidable": false,
+      "max_build_length": 8.0
+    },
+    "road": {
+      "cost_per_meter": 60.0,
+      "max_load": 400.0,
+      "collidable": true,
+      "max_build_length": 8.0
+    }
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "x": -45,
+      "y": -10,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 1,
+      "x": -38,
+      "y": -10,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 2,
+      "x": -45,
+      "y": 0,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 3,
+      "x": -38,
+      "y": 0,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 4,
+      "x": -38,
+      "y": 3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 5,
+      "x": -37,
+      "y": 6,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 6,
+      "x": -35,
+      "y": 9,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 7,
+      "x": -35,
+      "y": 13,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 8,
+      "x": -35,
+      "y": 15,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 9,
+      "x": -45,
+      "y": 5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 10,
+      "x": -45,
+      "y": 10,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 11,
+      "x": -45,
+      "y": 15,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 12,
+      "x": -25,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 13,
+      "x": -20,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 14,
+      "x": -15,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 15,
+      "x": -5,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 16,
+      "x": 0,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 17,
+      "x": 5,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 18,
+      "x": 15,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 19,
+      "x": 20,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 20,
+      "x": 10,
+      "y": -15,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 21,
+      "x": 10,
+      "y": -8,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 22,
+      "x": 15,
+      "y": -12,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 23,
+      "x": -33,
+      "y": -10,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 24,
+      "x": 30,
+      "y": -6,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 25,
+      "x": 38,
+      "y": -6,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 26,
+      "x": -17,
+      "y": -5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 27,
+      "x": -12,
+      "y": -5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 28,
+      "x": -17,
+      "y": -3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 29,
+      "x": -12,
+      "y": -3,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 30,
+      "x": -9,
+      "y": 5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 31,
+      "x": -4,
+      "y": 5,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 32,
+      "x": -6,
+      "y": 8,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 33,
+      "x": 25,
+      "y": -25,
+      "pinned": true,
+      "node_type": "normal"
+    }
+  ],
+  "bridges": {
+    "road": [
+      {
+        "p0": 2,
+        "p1": 3
+      },
+      {
+        "p0": 0,
+        "p1": 1
+      },
+      {
+        "p0": 20,
+        "p1": 22
+      },
+      {
+        "p0": 22,
+        "p1": 21
+      },
+      {
+        "p0": 21,
+        "p1": 20
+      },
+      {
+        "p0": 1,
+        "p1": 23
+      },
+      {
+        "p0": 24,
+        "p1": 25
+      },
+      {
+        "p0": 26,
+        "p1": 27
+      },
+      {
+        "p0": 27,
+        "p1": 29
+      },
+      {
+        "p0": 29,
+        "p1": 28
+      },
+      {
+        "p0": 28,
+        "p1": 26
+      },
+      {
+        "p0": 30,
+        "p1": 31
+      },
+      {
+        "p0": 31,
+        "p1": 32
+      },
+      {
+        "p0": 32,
+        "p1": 30
+      }
+    ],
+    "steel": [
+      {
+        "p0": 3,
+        "p1": 4
+      },
+      {
+        "p0": 4,
+        "p1": 5
+      },
+      {
+        "p0": 5,
+        "p1": 6
+      },
+      {
+        "p0": 6,
+        "p1": 7
+      },
+      {
+        "p0": 7,
+        "p1": 8
+      },
+      {
+        "p0": 2,
+        "p1": 9
+      },
+      {
+        "p0": 9,
+        "p1": 10
+      },
+      {
+        "p0": 10,
+        "p1": 11
+      },
+      {
+        "p0": 12,
+        "p1": 13
+      },
+      {
+        "p0": 13,
+        "p1": 14
+      },
+      {
+        "p0": 15,
+        "p1": 16
+      },
+      {
+        "p0": 16,
+        "p1": 17
+      },
+      {
+        "p0": 18,
+        "p1": 19
+      },
+      {
+        "p0": 19,
+        "p1": 33
+      }
+    ]
+  },
+  "blocks": {
+    "StationBlock": [
+      {
+        "x": 30,
+        "y": -7
+      },
+      {
+        "x": 31,
+        "y": -7
+      },
+      {
+        "x": 32,
+        "y": -7
+      },
+      {
+        "x": 33,
+        "y": -7
+      },
+      {
+        "x": 34,
+        "y": -7
+      },
+      {
+        "x": 35,
+        "y": -7
+      },
+      {
+        "x": 36,
+        "y": -7
+      },
+      {
+        "x": 37,
+        "y": -7
+      },
+      {
+        "x": 38,
+        "y": -7
+      },
+      {
+        "x": 38,
+        "y": -6
+      },
+      {
+        "x": 37,
+        "y": -6
+      },
+      {
+        "x": 36,
+        "y": -6
+      },
+      {
+        "x": 35,
+        "y": -6
+      },
+      {
+        "x": 34,
+        "y": -6
+      },
+      {
+        "x": 33,
+        "y": -6
+      },
+      {
+        "x": 32,
+        "y": -6
+      },
+      {
+        "x": 31,
+        "y": -6
+      },
+      {
+        "x": 30,
+        "y": -6
+      },
+      {
+        "x": 30,
+        "y": -8
+      },
+      {
+        "x": 30,
+        "y": -10
+      },
+      {
+        "x": 30,
+        "y": -9
+      },
+      {
+        "x": 31,
+        "y": -10
+      },
+      {
+        "x": 31,
+        "y": -9
+      },
+      {
+        "x": 31,
+        "y": -8
+      },
+      {
+        "x": 33,
+        "y": -9
+      },
+      {
+        "x": 32,
+        "y": -9
+      },
+      {
+        "x": 32,
+        "y": -8
+      },
+      {
+        "x": 33,
+        "y": -10
+      },
+      {
+        "x": 32,
+        "y": -10
+      },
+      {
+        "x": 34,
+        "y": -10
+      },
+      {
+        "x": 35,
+        "y": -10
+      },
+      {
+        "x": 38,
+        "y": -10
+      },
+      {
+        "x": 36,
+        "y": -10
+      },
+      {
+        "x": 37,
+        "y": -10
+      },
+      {
+        "x": 38,
+        "y": -9
+      },
+      {
+        "x": 38,
+        "y": -8
+      },
+      {
+        "x": 36,
+        "y": -9
+      },
+      {
+        "x": 33,
+        "y": -8
+      },
+      {
+        "x": 35,
+        "y": -8
+      },
+      {
+        "x": 37,
+        "y": -8
+      },
+      {
+        "x": 34,
+        "y": -8
+      },
+      {
+        "x": 37,
+        "y": -9
+      },
+      {
+        "x": 36,
+        "y": -8
+      },
+      {
+        "x": 35,
+        "y": -9
+      },
+      {
+        "x": 34,
+        "y": -9
+      }
+    ]
+  },
+  "vehicles": {
+    "freight_truck": [
+      {
+        "x": -42,
+        "y": -2
+      }
+    ],
+    "wheeled_car": [
+      {
+        "x": -35,
+        "y": -11
+      },
+      {
+        "x": -38,
+        "y": -11
+      }
+    ],
+    "coach_bus": [
+      {
+        "x": -43,
+        "y": -12
+      }
+    ]
+  },
+  "rules": [
+    "Node IDs are used to identify bridge connection points",
+    "Pinned nodes cannot move and serve as bridge supports",
+    "Total construction cost cannot exceed the budget limit",
+    "Material choice affects bridge strength and cost",
+    "Road material can support vehicle traffic",
+    "Maximum connections per node: 8",
+    "Cannot place duplicate sticks between same nodes with same material",
+    "Each material has a maximum build length limit (in grid units)",
+    "Grid coordinates are relative to world origin, range: x(-45 to 38), y(-25 to 15)"
+  ],
+  "generated_at": "2025-11-26T12:13:50.710784"
+}
