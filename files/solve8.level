@@ -396,6 +396,102 @@
       "pinned": false,
       "node_type": "normal",
       "prefab": true
+    },
+    {
+      "id": 49,
+      "x": -1040.0,
+      "y": -280.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 50,
+      "x": 120.0,
+      "y": 80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 51,
+      "x": 640.0,
+      "y": -40.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 52,
+      "x": -560.0,
+      "y": 120.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 53,
+      "x": -1720.0,
+      "y": 960.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 54,
+      "x": -1720.0,
+      "y": 840.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 55,
+      "x": 640.0,
+      "y": -160.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 56,
+      "x": 880.0,
+      "y": -40.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 57,
+      "x": 720.0,
+      "y": -280.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 58,
+      "x": -1400.0,
+      "y": 40.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 59,
+      "x": -1200.0,
+      "y": 200.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 60,
+      "x": -720.0,
+      "y": 160.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
     }
   ],
   "sticks": [
@@ -838,6 +934,231 @@
       "material": "steel",
       "length": 320.0,
       "cost": 400.0,
+      "prefab": true
+    },
+    {
+      "id": 49,
+      "point0_id": 24,
+      "point1_id": 49,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 50,
+      "point0_id": 19,
+      "point1_id": 50,
+      "material": "road",
+      "length": 304.63092423455635,
+      "cost": 456.9463863518345,
+      "prefab": true
+    },
+    {
+      "id": 51,
+      "point0_id": 50,
+      "point1_id": 48,
+      "material": "road",
+      "length": 268.32815729997475,
+      "cost": 402.4922359499621,
+      "prefab": true
+    },
+    {
+      "id": 52,
+      "point0_id": 51,
+      "point1_id": 48,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 53,
+      "point0_id": 52,
+      "point1_id": 18,
+      "material": "road",
+      "length": 215.40659228538016,
+      "cost": 323.10988842807024,
+      "prefab": true
+    },
+    {
+      "id": 54,
+      "point0_id": 53,
+      "point1_id": 54,
+      "material": "road",
+      "length": 120.0,
+      "cost": 180.0,
+      "prefab": true
+    },
+    {
+      "id": 55,
+      "point0_id": 52,
+      "point1_id": 47,
+      "material": "wood",
+      "length": 89.44271909999159,
+      "cost": 33.54101966249685,
+      "prefab": true
+    },
+    {
+      "id": 56,
+      "point0_id": 32,
+      "point1_id": 55,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 57,
+      "point0_id": 55,
+      "point1_id": 51,
+      "material": "wood",
+      "length": 120.0,
+      "cost": 45.0,
+      "prefab": true
+    },
+    {
+      "id": 58,
+      "point0_id": 25,
+      "point1_id": 56,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 59,
+      "point0_id": 56,
+      "point1_id": 51,
+      "material": "road",
+      "length": 240.0,
+      "cost": 360.0,
+      "prefab": true
+    },
+    {
+      "id": 60,
+      "point0_id": 55,
+      "point1_id": 56,
+      "material": "wood",
+      "length": 268.32815729997475,
+      "cost": 100.62305898749052,
+      "prefab": true
+    },
+    {
+      "id": 61,
+      "point0_id": 56,
+      "point1_id": 57,
+      "material": "wood",
+      "length": 288.44410203711914,
+      "cost": 108.16653826391968,
+      "prefab": true
+    },
+    {
+      "id": 62,
+      "point0_id": 29,
+      "point1_id": 57,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 63,
+      "point0_id": 55,
+      "point1_id": 57,
+      "material": "wood",
+      "length": 144.22205101855957,
+      "cost": 54.08326913195984,
+      "prefab": true
+    },
+    {
+      "id": 64,
+      "point0_id": 50,
+      "point1_id": 38,
+      "material": "wood",
+      "length": 312.40998703626616,
+      "cost": 117.15374513859982,
+      "prefab": true
+    },
+    {
+      "id": 65,
+      "point0_id": 1,
+      "point1_id": 58,
+      "material": "road",
+      "length": 126.49110640673517,
+      "cost": 189.73665961010275,
+      "prefab": true
+    },
+    {
+      "id": 66,
+      "point0_id": 58,
+      "point1_id": 59,
+      "material": "road",
+      "length": 256.12496949731394,
+      "cost": 384.1874542459709,
+      "prefab": true
+    },
+    {
+      "id": 67,
+      "point0_id": 59,
+      "point1_id": 42,
+      "material": "road",
+      "length": 80.0,
+      "cost": 120.0,
+      "prefab": true
+    },
+    {
+      "id": 68,
+      "point0_id": 2,
+      "point1_id": 58,
+      "material": "wood",
+      "length": 144.22205101855957,
+      "cost": 54.08326913195984,
+      "prefab": true
+    },
+    {
+      "id": 69,
+      "point0_id": 43,
+      "point1_id": 60,
+      "material": "road",
+      "length": 178.88543819998318,
+      "cost": 268.3281572999748,
+      "prefab": true
+    },
+    {
+      "id": 70,
+      "point0_id": 60,
+      "point1_id": 52,
+      "material": "road",
+      "length": 164.92422502470643,
+      "cost": 247.38633753705963,
+      "prefab": true
+    },
+    {
+      "id": 71,
+      "point0_id": 36,
+      "point1_id": 60,
+      "material": "wood",
+      "length": 291.20439557122074,
+      "cost": 109.20164833920778,
+      "prefab": true
+    },
+    {
+      "id": 72,
+      "point0_id": 49,
+      "point1_id": 35,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 73,
+      "point0_id": 49,
+      "point1_id": 45,
+      "material": "wood",
+      "length": 304.63092423455635,
+      "cost": 114.23659658795863,
       "prefab": true
     }
   ],
@@ -2435,5 +2756,5 @@
       "prefab": true
     }
   ],
-  "total_cost": 12685.043179624012
+  "total_cost": 18363.319444290573
 }

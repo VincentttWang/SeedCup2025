@@ -1,0 +1,2850 @@
+{
+  "metadata": {
+    "max_budget": 30000.0,
+    "grid_width": 96,
+    "grid_height": 54
+  },
+  "points": [
+    {
+      "id": 0,
+      "x": 1400.0,
+      "y": 0.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 1,
+      "x": 1720.0,
+      "y": 0.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 2,
+      "x": 1360.0,
+      "y": 200.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 3,
+      "x": 1280.0,
+      "y": 360.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 4,
+      "x": 1160.0,
+      "y": 440.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 5,
+      "x": 1120.0,
+      "y": 600.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 6,
+      "x": 1080.0,
+      "y": 760.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 7,
+      "x": 1080.0,
+      "y": 920.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 8,
+      "x": 1720.0,
+      "y": 200.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 9,
+      "x": 1720.0,
+      "y": 400.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 10,
+      "x": 1720.0,
+      "y": 640.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 11,
+      "x": 1720.0,
+      "y": 920.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 12,
+      "x": -1480.0,
+      "y": -80.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 13,
+      "x": -1240.0,
+      "y": -80.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 14,
+      "x": -1800.0,
+      "y": 400.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 15,
+      "x": -1520.0,
+      "y": 400.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 16,
+      "x": -1440.0,
+      "y": 600.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 17,
+      "x": -1360.0,
+      "y": 800.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 18,
+      "x": -1800.0,
+      "y": 800.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 19,
+      "x": -1800.0,
+      "y": 600.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 20,
+      "x": -1800.0,
+      "y": 960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 21,
+      "x": -1800.0,
+      "y": 1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 22,
+      "x": -800.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 23,
+      "x": -400.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 24,
+      "x": 0.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 25,
+      "x": 400.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 26,
+      "x": 800.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 27,
+      "x": 1200.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 28,
+      "x": -1200.0,
+      "y": -960.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 29,
+      "x": -1000.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 30,
+      "x": -600.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 31,
+      "x": -200.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 32,
+      "x": 200.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 33,
+      "x": 600.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 34,
+      "x": 1000.0,
+      "y": -1040.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 35,
+      "x": -1760.0,
+      "y": -80.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 36,
+      "x": -400.0,
+      "y": 400.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 37,
+      "x": -120.0,
+      "y": 400.0,
+      "pinned": true,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 38,
+      "x": -1240.0,
+      "y": 400.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 39,
+      "x": -960.0,
+      "y": 400.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 40,
+      "x": -720.0,
+      "y": 360.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 41,
+      "x": -480.0,
+      "y": 320.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 42,
+      "x": -240.0,
+      "y": 280.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 43,
+      "x": 0.0,
+      "y": 280.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 44,
+      "x": 240.0,
+      "y": 240.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 45,
+      "x": 400.0,
+      "y": 200.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 46,
+      "x": 680.0,
+      "y": 160.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 47,
+      "x": 1000.0,
+      "y": 160.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 48,
+      "x": 0.0,
+      "y": -680.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 49,
+      "x": 0.0,
+      "y": -440.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 50,
+      "x": 0.0,
+      "y": -200.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 51,
+      "x": 0.0,
+      "y": 40.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 52,
+      "x": 400.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 53,
+      "x": 640.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 54,
+      "x": 800.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 55,
+      "x": 1080.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 56,
+      "x": 1240.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 57,
+      "x": -800.0,
+      "y": -680.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 58,
+      "x": -800.0,
+      "y": -440.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 59,
+      "x": -800.0,
+      "y": -240.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 60,
+      "x": -400.0,
+      "y": -680.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 61,
+      "x": -400.0,
+      "y": -440.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 62,
+      "x": -400.0,
+      "y": -240.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 63,
+      "x": 400.0,
+      "y": -680.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 64,
+      "x": 400.0,
+      "y": -400.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 65,
+      "x": 400.0,
+      "y": -200.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 66,
+      "x": 800.0,
+      "y": -640.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 67,
+      "x": 800.0,
+      "y": -320.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 68,
+      "x": 1200.0,
+      "y": -680.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 69,
+      "x": 1200.0,
+      "y": -360.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 70,
+      "x": -1520.0,
+      "y": 320.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 71,
+      "x": -1000.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 72,
+      "x": -680.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 73,
+      "x": -400.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 74,
+      "x": -80.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 75,
+      "x": 80.0,
+      "y": -80.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 76,
+      "x": -400.0,
+      "y": 120.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 77,
+      "x": -1240.0,
+      "y": -160.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 78,
+      "x": -800.0,
+      "y": -40.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 79,
+      "x": -600.0,
+      "y": -240.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 80,
+      "x": 1240.0,
+      "y": 0.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 81,
+      "x": 1280.0,
+      "y": 1000.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    },
+    {
+      "id": 82,
+      "x": 1320.0,
+      "y": 1000.0,
+      "pinned": false,
+      "node_type": "normal",
+      "prefab": true
+    }
+  ],
+  "sticks": [
+    {
+      "id": 0,
+      "point0_id": 12,
+      "point1_id": 13,
+      "material": "road",
+      "length": 240.0,
+      "cost": 360.0,
+      "prefab": true
+    },
+    {
+      "id": 1,
+      "point0_id": 14,
+      "point1_id": 15,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 2,
+      "point0_id": 14,
+      "point1_id": 19,
+      "material": "steel",
+      "length": 200.0,
+      "cost": 250.0,
+      "prefab": true
+    },
+    {
+      "id": 3,
+      "point0_id": 19,
+      "point1_id": 18,
+      "material": "steel",
+      "length": 200.0,
+      "cost": 250.0,
+      "prefab": true
+    },
+    {
+      "id": 4,
+      "point0_id": 15,
+      "point1_id": 16,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 5,
+      "point0_id": 16,
+      "point1_id": 17,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 6,
+      "point0_id": 18,
+      "point1_id": 20,
+      "material": "steel",
+      "length": 160.0,
+      "cost": 200.0,
+      "prefab": true
+    },
+    {
+      "id": 7,
+      "point0_id": 20,
+      "point1_id": 21,
+      "material": "steel",
+      "length": 80.0,
+      "cost": 100.0,
+      "prefab": true
+    },
+    {
+      "id": 8,
+      "point0_id": 0,
+      "point1_id": 1,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 9,
+      "point0_id": 0,
+      "point1_id": 2,
+      "material": "steel",
+      "length": 203.9607805437114,
+      "cost": 254.9509756796392,
+      "prefab": true
+    },
+    {
+      "id": 10,
+      "point0_id": 2,
+      "point1_id": 3,
+      "material": "steel",
+      "length": 178.88543819998318,
+      "cost": 223.60679774997897,
+      "prefab": true
+    },
+    {
+      "id": 11,
+      "point0_id": 3,
+      "point1_id": 4,
+      "material": "steel",
+      "length": 144.22205101855957,
+      "cost": 180.27756377319946,
+      "prefab": true
+    },
+    {
+      "id": 12,
+      "point0_id": 4,
+      "point1_id": 5,
+      "material": "steel",
+      "length": 164.92422502470643,
+      "cost": 206.15528128088303,
+      "prefab": true
+    },
+    {
+      "id": 13,
+      "point0_id": 5,
+      "point1_id": 6,
+      "material": "steel",
+      "length": 164.92422502470643,
+      "cost": 206.15528128088303,
+      "prefab": true
+    },
+    {
+      "id": 14,
+      "point0_id": 6,
+      "point1_id": 7,
+      "material": "steel",
+      "length": 160.0,
+      "cost": 200.0,
+      "prefab": true
+    },
+    {
+      "id": 15,
+      "point0_id": 1,
+      "point1_id": 8,
+      "material": "steel",
+      "length": 200.0,
+      "cost": 250.0,
+      "prefab": true
+    },
+    {
+      "id": 16,
+      "point0_id": 8,
+      "point1_id": 9,
+      "material": "steel",
+      "length": 200.0,
+      "cost": 250.0,
+      "prefab": true
+    },
+    {
+      "id": 17,
+      "point0_id": 9,
+      "point1_id": 10,
+      "material": "steel",
+      "length": 240.0,
+      "cost": 300.0,
+      "prefab": true
+    },
+    {
+      "id": 18,
+      "point0_id": 10,
+      "point1_id": 11,
+      "material": "steel",
+      "length": 280.0,
+      "cost": 350.0,
+      "prefab": true
+    },
+    {
+      "id": 19,
+      "point0_id": 28,
+      "point1_id": 29,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 20,
+      "point0_id": 29,
+      "point1_id": 22,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 21,
+      "point0_id": 22,
+      "point1_id": 30,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 22,
+      "point0_id": 30,
+      "point1_id": 23,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 23,
+      "point0_id": 23,
+      "point1_id": 31,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 24,
+      "point0_id": 31,
+      "point1_id": 24,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 25,
+      "point0_id": 24,
+      "point1_id": 32,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 26,
+      "point0_id": 32,
+      "point1_id": 25,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 27,
+      "point0_id": 25,
+      "point1_id": 33,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 28,
+      "point0_id": 33,
+      "point1_id": 26,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 29,
+      "point0_id": 26,
+      "point1_id": 34,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 30,
+      "point0_id": 34,
+      "point1_id": 27,
+      "material": "steel",
+      "length": 215.40659228538016,
+      "cost": 269.2582403567252,
+      "prefab": true
+    },
+    {
+      "id": 31,
+      "point0_id": 35,
+      "point1_id": 12,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 32,
+      "point0_id": 36,
+      "point1_id": 37,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 33,
+      "point0_id": 15,
+      "point1_id": 38,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 34,
+      "point0_id": 38,
+      "point1_id": 39,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 35,
+      "point0_id": 39,
+      "point1_id": 40,
+      "material": "road",
+      "length": 243.3105012119288,
+      "cost": 364.9657518178932,
+      "prefab": true
+    },
+    {
+      "id": 36,
+      "point0_id": 40,
+      "point1_id": 41,
+      "material": "road",
+      "length": 243.3105012119288,
+      "cost": 364.9657518178932,
+      "prefab": true
+    },
+    {
+      "id": 37,
+      "point0_id": 41,
+      "point1_id": 42,
+      "material": "road",
+      "length": 243.3105012119288,
+      "cost": 364.9657518178932,
+      "prefab": true
+    },
+    {
+      "id": 38,
+      "point0_id": 42,
+      "point1_id": 43,
+      "material": "road",
+      "length": 240.0,
+      "cost": 360.0,
+      "prefab": true
+    },
+    {
+      "id": 39,
+      "point0_id": 43,
+      "point1_id": 44,
+      "material": "road",
+      "length": 243.3105012119288,
+      "cost": 364.9657518178932,
+      "prefab": true
+    },
+    {
+      "id": 40,
+      "point0_id": 44,
+      "point1_id": 45,
+      "material": "road",
+      "length": 164.92422502470643,
+      "cost": 247.38633753705963,
+      "prefab": true
+    },
+    {
+      "id": 41,
+      "point0_id": 45,
+      "point1_id": 46,
+      "material": "road",
+      "length": 282.842712474619,
+      "cost": 424.26406871192853,
+      "prefab": true
+    },
+    {
+      "id": 42,
+      "point0_id": 46,
+      "point1_id": 47,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 43,
+      "point0_id": 16,
+      "point1_id": 38,
+      "material": "wood",
+      "length": 282.842712474619,
+      "cost": 106.06601717798213,
+      "prefab": true
+    },
+    {
+      "id": 44,
+      "point0_id": 24,
+      "point1_id": 48,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 45,
+      "point0_id": 48,
+      "point1_id": 49,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 46,
+      "point0_id": 49,
+      "point1_id": 50,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 47,
+      "point0_id": 51,
+      "point1_id": 43,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 48,
+      "point0_id": 52,
+      "point1_id": 53,
+      "material": "road",
+      "length": 240.0,
+      "cost": 360.0,
+      "prefab": true
+    },
+    {
+      "id": 49,
+      "point0_id": 53,
+      "point1_id": 54,
+      "material": "road",
+      "length": 160.0,
+      "cost": 240.0,
+      "prefab": true
+    },
+    {
+      "id": 50,
+      "point0_id": 54,
+      "point1_id": 55,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 51,
+      "point0_id": 55,
+      "point1_id": 56,
+      "material": "road",
+      "length": 160.0,
+      "cost": 240.0,
+      "prefab": true
+    },
+    {
+      "id": 52,
+      "point0_id": 22,
+      "point1_id": 57,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 53,
+      "point0_id": 57,
+      "point1_id": 58,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 54,
+      "point0_id": 58,
+      "point1_id": 59,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 55,
+      "point0_id": 23,
+      "point1_id": 60,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 56,
+      "point0_id": 60,
+      "point1_id": 61,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 57,
+      "point0_id": 61,
+      "point1_id": 62,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 58,
+      "point0_id": 25,
+      "point1_id": 63,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 59,
+      "point0_id": 63,
+      "point1_id": 64,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 60,
+      "point0_id": 64,
+      "point1_id": 65,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 61,
+      "point0_id": 65,
+      "point1_id": 53,
+      "material": "wood",
+      "length": 268.32815729997475,
+      "cost": 100.62305898749052,
+      "prefab": true
+    },
+    {
+      "id": 62,
+      "point0_id": 65,
+      "point1_id": 52,
+      "material": "wood",
+      "length": 120.0,
+      "cost": 45.0,
+      "prefab": true
+    },
+    {
+      "id": 63,
+      "point0_id": 26,
+      "point1_id": 66,
+      "material": "wood",
+      "length": 320.0,
+      "cost": 120.0,
+      "prefab": true
+    },
+    {
+      "id": 64,
+      "point0_id": 53,
+      "point1_id": 67,
+      "material": "wood",
+      "length": 288.44410203711914,
+      "cost": 108.16653826391968,
+      "prefab": true
+    },
+    {
+      "id": 65,
+      "point0_id": 67,
+      "point1_id": 66,
+      "material": "wood",
+      "length": 320.0,
+      "cost": 120.0,
+      "prefab": true
+    },
+    {
+      "id": 66,
+      "point0_id": 67,
+      "point1_id": 54,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 67,
+      "point0_id": 27,
+      "point1_id": 68,
+      "material": "wood",
+      "length": 280.0,
+      "cost": 105.0,
+      "prefab": true
+    },
+    {
+      "id": 68,
+      "point0_id": 56,
+      "point1_id": 69,
+      "material": "wood",
+      "length": 282.842712474619,
+      "cost": 106.06601717798213,
+      "prefab": true
+    },
+    {
+      "id": 69,
+      "point0_id": 69,
+      "point1_id": 68,
+      "material": "wood",
+      "length": 320.0,
+      "cost": 120.0,
+      "prefab": true
+    },
+    {
+      "id": 70,
+      "point0_id": 69,
+      "point1_id": 55,
+      "material": "wood",
+      "length": 304.63092423455635,
+      "cost": 114.23659658795863,
+      "prefab": true
+    },
+    {
+      "id": 71,
+      "point0_id": 51,
+      "point1_id": 50,
+      "material": "wood",
+      "length": 240.0,
+      "cost": 90.0,
+      "prefab": true
+    },
+    {
+      "id": 72,
+      "point0_id": 14,
+      "point1_id": 70,
+      "material": "wood",
+      "length": 291.20439557122074,
+      "cost": 109.20164833920778,
+      "prefab": true
+    },
+    {
+      "id": 73,
+      "point0_id": 70,
+      "point1_id": 15,
+      "material": "wood",
+      "length": 80.0,
+      "cost": 30.0,
+      "prefab": true
+    },
+    {
+      "id": 74,
+      "point0_id": 70,
+      "point1_id": 38,
+      "material": "wood",
+      "length": 291.20439557122074,
+      "cost": 109.20164833920778,
+      "prefab": true
+    },
+    {
+      "id": 75,
+      "point0_id": 13,
+      "point1_id": 71,
+      "material": "road",
+      "length": 240.0,
+      "cost": 360.0,
+      "prefab": true
+    },
+    {
+      "id": 76,
+      "point0_id": 71,
+      "point1_id": 72,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 77,
+      "point0_id": 73,
+      "point1_id": 74,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 78,
+      "point0_id": 52,
+      "point1_id": 75,
+      "material": "road",
+      "length": 320.0,
+      "cost": 480.0,
+      "prefab": true
+    },
+    {
+      "id": 79,
+      "point0_id": 75,
+      "point1_id": 74,
+      "material": "road",
+      "length": 160.0,
+      "cost": 240.0,
+      "prefab": true
+    },
+    {
+      "id": 80,
+      "point0_id": 59,
+      "point1_id": 71,
+      "material": "wood",
+      "length": 256.12496949731394,
+      "cost": 96.04686356149273,
+      "prefab": true
+    },
+    {
+      "id": 81,
+      "point0_id": 59,
+      "point1_id": 72,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 82,
+      "point0_id": 62,
+      "point1_id": 73,
+      "material": "wood",
+      "length": 160.0,
+      "cost": 60.0,
+      "prefab": true
+    },
+    {
+      "id": 83,
+      "point0_id": 50,
+      "point1_id": 74,
+      "material": "wood",
+      "length": 144.22205101855957,
+      "cost": 54.08326913195984,
+      "prefab": true
+    },
+    {
+      "id": 84,
+      "point0_id": 50,
+      "point1_id": 75,
+      "material": "wood",
+      "length": 144.22205101855957,
+      "cost": 54.08326913195984,
+      "prefab": true
+    },
+    {
+      "id": 85,
+      "point0_id": 73,
+      "point1_id": 76,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 86,
+      "point0_id": 76,
+      "point1_id": 41,
+      "material": "wood",
+      "length": 215.40659228538016,
+      "cost": 80.77747210701756,
+      "prefab": true
+    },
+    {
+      "id": 87,
+      "point0_id": 76,
+      "point1_id": 42,
+      "material": "wood",
+      "length": 226.27416997969522,
+      "cost": 84.8528137423857,
+      "prefab": true
+    },
+    {
+      "id": 88,
+      "point0_id": 12,
+      "point1_id": 77,
+      "material": "wood",
+      "length": 252.98221281347034,
+      "cost": 94.86832980505137,
+      "prefab": true
+    },
+    {
+      "id": 89,
+      "point0_id": 77,
+      "point1_id": 13,
+      "material": "wood",
+      "length": 80.0,
+      "cost": 30.0,
+      "prefab": true
+    },
+    {
+      "id": 90,
+      "point0_id": 77,
+      "point1_id": 71,
+      "material": "wood",
+      "length": 252.98221281347034,
+      "cost": 94.86832980505137,
+      "prefab": true
+    },
+    {
+      "id": 91,
+      "point0_id": 71,
+      "point1_id": 78,
+      "material": "wood",
+      "length": 203.9607805437114,
+      "cost": 76.48529270389177,
+      "prefab": true
+    },
+    {
+      "id": 92,
+      "point0_id": 78,
+      "point1_id": 59,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 93,
+      "point0_id": 78,
+      "point1_id": 72,
+      "material": "wood",
+      "length": 126.49110640673517,
+      "cost": 47.43416490252569,
+      "prefab": true
+    },
+    {
+      "id": 94,
+      "point0_id": 72,
+      "point1_id": 73,
+      "material": "road",
+      "length": 280.0,
+      "cost": 420.0,
+      "prefab": true
+    },
+    {
+      "id": 95,
+      "point0_id": 59,
+      "point1_id": 79,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 96,
+      "point0_id": 79,
+      "point1_id": 62,
+      "material": "wood",
+      "length": 200.0,
+      "cost": 75.0,
+      "prefab": true
+    },
+    {
+      "id": 97,
+      "point0_id": 0,
+      "point1_id": 80,
+      "material": "road",
+      "length": 160.0,
+      "cost": 240.0,
+      "prefab": true
+    },
+    {
+      "id": 98,
+      "point0_id": 80,
+      "point1_id": 47,
+      "material": "road",
+      "length": 288.44410203711914,
+      "cost": 432.6661530556787,
+      "prefab": true
+    },
+    {
+      "id": 99,
+      "point0_id": 80,
+      "point1_id": 2,
+      "material": "wood",
+      "length": 233.23807579381202,
+      "cost": 87.46427842267951,
+      "prefab": true
+    },
+    {
+      "id": 100,
+      "point0_id": 56,
+      "point1_id": 80,
+      "material": "wood",
+      "length": 80.0,
+      "cost": 30.0,
+      "prefab": true
+    },
+    {
+      "id": 101,
+      "point0_id": 56,
+      "point1_id": 0,
+      "material": "wood",
+      "length": 178.88543819998318,
+      "cost": 67.0820393249937,
+      "prefab": true
+    }
+  ],
+  "objects": [
+    {
+      "type": "WheeledCar",
+      "x": -1760.0,
+      "y": 360.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 270400.0,
+      "mass": 100.0,
+      "color": [
+        200,
+        120,
+        80
+      ],
+      "radius": 10.0,
+      "colliders": [
+        {
+          "type": "Collider2D",
+          "offset_x": -32.0,
+          "offset_y": 18.0,
+          "radius": 10.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "Collider2D",
+          "offset_x": 32.0,
+          "offset_y": 18.0,
+          "radius": 10.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "ConvexPolygonCollider",
+          "offset_x": 0.0,
+          "offset_y": -4.0,
+          "radius": 3.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.1,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": false,
+          "is_body": true,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0,
+          "vertices": [
+            [
+              -48.0,
+              -20.0
+            ],
+            [
+              48.0,
+              -20.0
+            ],
+            [
+              48.0,
+              20.0
+            ],
+            [
+              -48.0,
+              20.0
+            ]
+          ],
+          "edge_radius": 3.0
+        }
+      ],
+      "is_prefab": true,
+      "prev_x": -1760.0,
+      "prev_y": 360.0,
+      "prev_angle": 0.0,
+      "config": {
+        "type": "VehicleConfig",
+        "name": "wheeled_car",
+        "width": 96.0,
+        "height": 40.0,
+        "wheel_offset_x": 32.0,
+        "wheel_offset_y": 18.0,
+        "wheel_radius": 10.0,
+        "color": [
+          200,
+          120,
+          80
+        ],
+        "wheel_color": [
+          40,
+          40,
+          40
+        ],
+        "mass": 100.0,
+        "drive_speed": 1.3,
+        "wheel_mu_s": 0.9,
+        "wheel_mu_d": 0.9,
+        "wheel_friction_tangent": 0.7,
+        "motor_strength": 20.0,
+        "pid_kp": 70.0,
+        "pid_ki": 5,
+        "pid_kd": 0.5,
+        "body_collider_enabled": true,
+        "body_edge_radius": 3.0,
+        "body_friction_tangent": 0.1,
+        "body_restitution": 0.0,
+        "body_offset_y": -4.0,
+        "center_probe_offset_x": 0.0,
+        "center_probe_offset_y": 0.0,
+        "body_durability_max": 100.0,
+        "inertia_multiplier": 3.0,
+        "wheel_rotation_direction": 1.0
+      },
+      "prefab": true
+    },
+    {
+      "type": "WheeledCar",
+      "x": -1640.0,
+      "y": 360.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 270400.0,
+      "mass": 100.0,
+      "color": [
+        200,
+        120,
+        80
+      ],
+      "radius": 10.0,
+      "colliders": [
+        {
+          "type": "Collider2D",
+          "offset_x": -32.0,
+          "offset_y": 18.0,
+          "radius": 10.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "Collider2D",
+          "offset_x": 32.0,
+          "offset_y": 18.0,
+          "radius": 10.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "ConvexPolygonCollider",
+          "offset_x": 0.0,
+          "offset_y": -4.0,
+          "radius": 3.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.1,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": false,
+          "is_body": true,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0,
+          "vertices": [
+            [
+              -48.0,
+              -20.0
+            ],
+            [
+              48.0,
+              -20.0
+            ],
+            [
+              48.0,
+              20.0
+            ],
+            [
+              -48.0,
+              20.0
+            ]
+          ],
+          "edge_radius": 3.0
+        }
+      ],
+      "is_prefab": true,
+      "prev_x": -1640.0,
+      "prev_y": 360.0,
+      "prev_angle": 0.0,
+      "config": {
+        "type": "VehicleConfig",
+        "name": "wheeled_car",
+        "width": 96.0,
+        "height": 40.0,
+        "wheel_offset_x": 32.0,
+        "wheel_offset_y": 18.0,
+        "wheel_radius": 10.0,
+        "color": [
+          200,
+          120,
+          80
+        ],
+        "wheel_color": [
+          40,
+          40,
+          40
+        ],
+        "mass": 100.0,
+        "drive_speed": 1.3,
+        "wheel_mu_s": 0.9,
+        "wheel_mu_d": 0.9,
+        "wheel_friction_tangent": 0.7,
+        "motor_strength": 20.0,
+        "pid_kp": 70.0,
+        "pid_ki": 5,
+        "pid_kd": 0.5,
+        "body_collider_enabled": true,
+        "body_edge_radius": 3.0,
+        "body_friction_tangent": 0.1,
+        "body_restitution": 0.0,
+        "body_offset_y": -4.0,
+        "center_probe_offset_x": 0.0,
+        "center_probe_offset_y": 0.0,
+        "body_durability_max": 100.0,
+        "inertia_multiplier": 3.0,
+        "wheel_rotation_direction": 1.0
+      },
+      "prefab": true
+    },
+    {
+      "type": "FreightTruck",
+      "x": -1640.0,
+      "y": -160.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 17766666.666666668,
+      "mass": 1000.0,
+      "color": [
+        150,
+        150,
+        160
+      ],
+      "radius": 20.0,
+      "colliders": [
+        {
+          "type": "Collider2D",
+          "offset_x": -80.0,
+          "offset_y": 32.0,
+          "radius": 20.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "Collider2D",
+          "offset_x": 80.0,
+          "offset_y": 32.0,
+          "radius": 20.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "ConvexPolygonCollider",
+          "offset_x": 0.0,
+          "offset_y": -4.0,
+          "radius": 3.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.1,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": false,
+          "is_body": true,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0,
+          "vertices": [
+            [
+              -110.0,
+              -35.0
+            ],
+            [
+              110.0,
+              -35.0
+            ],
+            [
+              110.0,
+              35.0
+            ],
+            [
+              -110.0,
+              35.0
+            ]
+          ],
+          "edge_radius": 3.0
+        }
+      ],
+      "is_prefab": true,
+      "prev_x": -1640.0,
+      "prev_y": -160.0,
+      "prev_angle": 0.0,
+      "config": {
+        "type": "VehicleConfig",
+        "name": "freight_truck",
+        "width": 220.0,
+        "height": 70.0,
+        "wheel_offset_x": 80.0,
+        "wheel_offset_y": 32.0,
+        "wheel_radius": 20.0,
+        "color": [
+          150,
+          150,
+          160
+        ],
+        "wheel_color": [
+          40,
+          40,
+          40
+        ],
+        "mass": 1000.0,
+        "drive_speed": 0.8,
+        "wheel_mu_s": 0.9,
+        "wheel_mu_d": 0.9,
+        "wheel_friction_tangent": 0.7,
+        "motor_strength": 20.0,
+        "pid_kp": 70.0,
+        "pid_ki": 5,
+        "pid_kd": 0.5,
+        "body_collider_enabled": true,
+        "body_edge_radius": 3.0,
+        "body_friction_tangent": 0.1,
+        "body_restitution": 0.0,
+        "body_offset_y": -4.0,
+        "center_probe_offset_x": 0.0,
+        "center_probe_offset_y": 0.0,
+        "body_durability_max": 100.0,
+        "inertia_multiplier": 4.0,
+        "wheel_rotation_direction": 1.0
+      },
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1400.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1400.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1440.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1440.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1480.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1480.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1520.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1520.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1600.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1600.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1600.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1600.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1560.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1560.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1640.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1640.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1680.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1680.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1720.0,
+      "y": -40.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1720.0,
+      "prev_y": -40.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1720.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1720.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1680.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1680.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1680.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1680.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1720.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1720.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1640.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1640.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1640.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1640.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1560.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1560.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1520.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1520.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1480.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1480.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1400.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1400.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1440.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1440.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1480.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1480.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1520.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1520.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1560.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1560.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1440.0,
+      "y": -80.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1440.0,
+      "prev_y": -80.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1400.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1400.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "StationBlock",
+      "x": 1600.0,
+      "y": -120.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 1.0,
+      "mass": 0.0,
+      "color": [
+        90,
+        220,
+        140
+      ],
+      "radius": 20.0,
+      "colliders": [],
+      "is_prefab": true,
+      "prev_x": 1600.0,
+      "prev_y": -120.0,
+      "prev_angle": 0.0,
+      "size": 40.0,
+      "alpha": 120,
+      "wait_seconds": 3.0,
+      "prefab": true
+    },
+    {
+      "type": "CoachBus",
+      "x": -1400.0,
+      "y": -160.0,
+      "vx": 0.0,
+      "vy": 0.0,
+      "angle": 0.0,
+      "omega": 0.0,
+      "inertia": 3600000.0,
+      "mass": 400.0,
+      "color": [
+        200,
+        170,
+        60
+      ],
+      "radius": 14.0,
+      "colliders": [
+        {
+          "type": "Collider2D",
+          "offset_x": -70.0,
+          "offset_y": 30.0,
+          "radius": 14.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "Collider2D",
+          "offset_x": 70.0,
+          "offset_y": 30.0,
+          "radius": 14.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.7,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": true,
+          "is_body": false,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0
+        },
+        {
+          "type": "ConvexPolygonCollider",
+          "offset_x": 0.0,
+          "offset_y": -4.0,
+          "radius": 3.0,
+          "restitution": 0.0,
+          "friction_tangent": 0.1,
+          "last_contact": false,
+          "last_qx": 0.0,
+          "last_qy": 0.0,
+          "last_nx": 0.0,
+          "last_ny": 0.0,
+          "last_tx": 0.0,
+          "last_ty": 0.0,
+          "is_wheel": false,
+          "is_body": true,
+          "last_Jn": 0.0,
+          "last_Jt": 0.0,
+          "vertices": [
+            [
+              -90.0,
+              -30.0
+            ],
+            [
+              90.0,
+              -30.0
+            ],
+            [
+              90.0,
+              30.0
+            ],
+            [
+              -90.0,
+              30.0
+            ]
+          ],
+          "edge_radius": 3.0
+        }
+      ],
+      "is_prefab": true,
+      "prev_x": -1400.0,
+      "prev_y": -160.0,
+      "prev_angle": 0.0,
+      "config": {
+        "type": "VehicleConfig",
+        "name": "coach_bus",
+        "width": 180.0,
+        "height": 60.0,
+        "wheel_offset_x": 70.0,
+        "wheel_offset_y": 30.0,
+        "wheel_radius": 14.0,
+        "color": [
+          200,
+          170,
+          60
+        ],
+        "wheel_color": [
+          40,
+          40,
+          40
+        ],
+        "mass": 400.0,
+        "drive_speed": 1.0,
+        "wheel_mu_s": 0.9,
+        "wheel_mu_d": 0.9,
+        "wheel_friction_tangent": 0.7,
+        "motor_strength": 20.0,
+        "pid_kp": 70.0,
+        "pid_ki": 5,
+        "pid_kd": 0.5,
+        "body_collider_enabled": true,
+        "body_edge_radius": 3.0,
+        "body_friction_tangent": 0.1,
+        "body_restitution": 0.0,
+        "body_offset_y": -4.0,
+        "center_probe_offset_x": 0.0,
+        "center_probe_offset_y": 0.0,
+        "body_durability_max": 100.0,
+        "inertia_multiplier": 3.0,
+        "wheel_rotation_direction": 1.0
+      },
+      "prefab": true
+    }
+  ],
+  "total_cost": 21301.54847884773
+}
