@@ -41,7 +41,6 @@ def _get_map_signature(data):
         sigs.append((x, y, pinned))
     return sorted(sigs)
 
-CALL_COUNT = 0
 
 def model(map_data: dict = None, map_path: str = None) -> dict:
     """
@@ -54,8 +53,6 @@ def model(map_data: dict = None, map_path: str = None) -> dict:
     Returns:
         dict: 包含 'sticks' 列表的字典，用于物理引擎模拟。
     """
-    global CALL_COUNT
-    CALL_COUNT += 1
 
     # 动态导入 BridgeSolver，确保在函数调用时加载
     # 并添加当前目录到 sys.path 以防止导入错误
@@ -73,12 +70,7 @@ def model(map_data: dict = None, map_path: str = None) -> dict:
         if map_data is None:
             return {'sticks': []}
 
-    if CALL_COUNT == 5 or CALL_COUNT == 11:
-        print("[Model] Using BridgeSolver2 (Solver2)")
-        solver = BridgeSolver2(map_data)
-    else:
-        print("[Model] Using BridgeSolver (Default)")
-        solver = BridgeSolver(map_data)
+    solver = BridgeSolver(map_data)
     
     return solver.solve()
 
