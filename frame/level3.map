@@ -1,5 +1,5 @@
 {
-  "level_name": "level5",
+  "level_name": "level3",
   "map_size": {
     "width": 96,
     "height": 54
@@ -132,141 +132,162 @@
     },
     {
       "id": 14,
+      "x": -30,
+      "y": -23,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 15,
       "x": -15,
       "y": -25,
       "pinned": true,
       "node_type": "normal"
     },
     {
-      "id": 15,
-      "x": -5,
-      "y": -25,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
       "id": 16,
-      "x": 0,
+      "x": -10,
       "y": -23,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 17,
-      "x": 5,
+      "x": -5,
       "y": -25,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 18,
-      "x": 15,
-      "y": -25,
+      "x": 0,
+      "y": -23,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 19,
-      "x": 20,
-      "y": -23,
+      "x": 5,
+      "y": -25,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 20,
       "x": 10,
-      "y": -15,
+      "y": -23,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 21,
-      "x": 10,
-      "y": -8,
+      "x": 15,
+      "y": -25,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 22,
-      "x": 15,
-      "y": -12,
+      "x": 20,
+      "y": -23,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 23,
-      "x": -33,
-      "y": -10,
+      "x": 25,
+      "y": -25,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 24,
       "x": 30,
-      "y": -6,
+      "y": -23,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 25,
+      "x": 10,
+      "y": -15,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 26,
+      "x": 10,
+      "y": -8,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 27,
+      "x": 15,
+      "y": -12,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 28,
+      "x": -33,
+      "y": -10,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 29,
+      "x": 30,
+      "y": -6,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 30,
       "x": 38,
       "y": -6,
       "pinned": true,
       "node_type": "normal"
     },
     {
-      "id": 26,
-      "x": -17,
-      "y": -5,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
-      "id": 27,
-      "x": -12,
-      "y": -5,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
-      "id": 28,
-      "x": -17,
-      "y": -3,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
-      "id": 29,
-      "x": -12,
-      "y": -3,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
-      "id": 30,
-      "x": -9,
-      "y": 5,
-      "pinned": true,
-      "node_type": "normal"
-    },
-    {
       "id": 31,
-      "x": -4,
-      "y": 5,
+      "x": -20,
+      "y": 0,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 32,
-      "x": -6,
-      "y": 8,
+      "x": -15,
+      "y": -1,
       "pinned": true,
       "node_type": "normal"
     },
     {
       "id": 33,
-      "x": 25,
-      "y": -25,
+      "x": -16,
+      "y": 2,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 34,
+      "x": 1,
+      "y": 1,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 35,
+      "x": 7,
+      "y": 2,
+      "pinned": true,
+      "node_type": "normal"
+    },
+    {
+      "id": 36,
+      "x": 3,
+      "y": 4,
       "pinned": true,
       "node_type": "normal"
     }
@@ -282,44 +303,24 @@
         "p1": 1
       },
       {
-        "p0": 20,
-        "p1": 22
-      },
-      {
-        "p0": 22,
-        "p1": 21
-      },
-      {
-        "p0": 21,
-        "p1": 20
-      },
-      {
-        "p0": 1,
-        "p1": 23
-      },
-      {
-        "p0": 24,
-        "p1": 25
-      },
-      {
-        "p0": 26,
+        "p0": 25,
         "p1": 27
       },
       {
         "p0": 27,
-        "p1": 29
-      },
-      {
-        "p0": 29,
-        "p1": 28
-      },
-      {
-        "p0": 28,
         "p1": 26
       },
       {
-        "p0": 30,
-        "p1": 31
+        "p0": 26,
+        "p1": 25
+      },
+      {
+        "p0": 1,
+        "p1": 28
+      },
+      {
+        "p0": 29,
+        "p1": 30
       },
       {
         "p0": 31,
@@ -327,7 +328,23 @@
       },
       {
         "p0": 32,
-        "p1": 30
+        "p1": 33
+      },
+      {
+        "p0": 33,
+        "p1": 31
+      },
+      {
+        "p0": 34,
+        "p1": 35
+      },
+      {
+        "p0": 34,
+        "p1": 36
+      },
+      {
+        "p0": 36,
+        "p1": 35
       }
     ],
     "steel": [
@@ -364,12 +381,16 @@
         "p1": 11
       },
       {
+        "p0": 14,
+        "p1": 12
+      },
+      {
         "p0": 12,
         "p1": 13
       },
       {
         "p0": 13,
-        "p1": 14
+        "p1": 15
       },
       {
         "p0": 15,
@@ -380,12 +401,32 @@
         "p1": 17
       },
       {
+        "p0": 17,
+        "p1": 18
+      },
+      {
         "p0": 18,
         "p1": 19
       },
       {
         "p0": 19,
-        "p1": 33
+        "p1": 20
+      },
+      {
+        "p0": 20,
+        "p1": 21
+      },
+      {
+        "p0": 21,
+        "p1": 22
+      },
+      {
+        "p0": 22,
+        "p1": 23
+      },
+      {
+        "p0": 23,
+        "p1": 24
       }
     ]
   },
@@ -608,5 +649,5 @@
     "Each material has a maximum build length limit (in grid units)",
     "Grid coordinates are relative to world origin, range: x(-45 to 38), y(-25 to 15)"
   ],
-  "generated_at": "2025-12-12T15:55:39.553083"
+  "generated_at": "2025-12-12T15:55:11.783866"
 }

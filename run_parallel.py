@@ -8,8 +8,16 @@ import os
 # 注意：确保对应的 .map 文件存在于 maps/ 目录下
 levels_to_run = [
     'files/level0.level',
+    'files/level1.level',
+    'files/level2.level',
+    'files/level3.level',
+    'files/level4.level',
     'files/level5.level',
-    'files/level8.level', 
+    'files/level6.level',
+    'files/level7.level',
+    'files/level8.level',
+    'files/level9.level',
+    'files/level10.level', 
     'files/level666.level',
 ]
 

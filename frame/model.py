@@ -3,12 +3,44 @@
 """
 import json
 import sys
-from bridge_solver import BridgeSolver
+import os
 
 # --- 可配置参数 ---
 # 在这里指定要读取的地图文件路径
-# 例如: 'maps/level5.map'
-MAP_FILE_PATH = 'maps/level5.map'
+# 例如: 'level8.map' (与 model.py 同目录)
+MAP_FILE_PATH = 'frame/level5.map' 
+
+# 尝试从命令行参数中获取 --level 参数来覆盖 MAP_FILE_PATH
+# 这样在使用 main_auto.py 或直接运行此脚本时，可以通过 --level 指定地图
+if '--level' in sys.argv:
+    try:
+        idx = sys.argv.index('--level')
+        if idx + 1 < len(sys.argv):
+            level_arg = sys.argv[idx + 1]
+            # 将 files/level5.level 转换为 level5.map
+            # 1. 获取文件名（不带后缀）
+            basename = os.path.splitext(os.path.basename(level_arg))[0]
+            # 2. 构造 map 路径 (假设在当前目录下)
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            MAP_FILE_PATH = os.path.join(current_dir, f'{basename}.map')
+            print(f"检测到命令行参数，已将 MAP_FILE_PATH 更新为: {MAP_FILE_PATH}")
+    except ValueError:
+        pass
+
+def _get_map_signature(data):
+    """提取地图的关键特征用于比对：所有节点的坐标集合"""
+    nodes = data.get('nodes', data.get('points', []))
+    # 提取 (x, y, pinned) 元组，忽略 id
+    # 使用排序后的列表来比较
+    sigs = []
+    for n in nodes:
+        # 保留一位小数，避免浮点精度问题
+        x = round(float(n.get('x', 0)), 1)
+        y = round(float(n.get('y', 0)), 1)
+        pinned = bool(n.get('pinned', False))
+        sigs.append((x, y, pinned))
+    return sorted(sigs)
+
 
 def model(map_data: dict = None, map_path: str = None) -> dict:
     """
@@ -21,6 +53,17 @@ def model(map_data: dict = None, map_path: str = None) -> dict:
     Returns:
         dict: 包含 'sticks' 列表的字典，用于物理引擎模拟。
     """
+
+    # 动态导入 BridgeSolver，确保在函数调用时加载
+    # 并添加当前目录到 sys.path 以防止导入错误
+    import sys
+    import os
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    if current_dir not in sys.path:
+        sys.path.append(current_dir)
+    
+    from bridge_solver import BridgeSolver, BridgeSolver2
+
     if map_data is None:
         source_path = map_path or MAP_FILE_PATH
         map_data = _load_map_for_testing(source_path)
